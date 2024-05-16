@@ -7,3 +7,9 @@ el usuario normal es: 123456, contrasena123
 la base de datos accede con el usuario root y contraseña root en el localhost, en el puerto 3306
 si no está abierto el puerto o tiene usuario y contraseña diferentes pues no va a dejar hacer login
 
+algunos diagramas puede que le aparezcan vacios, no sabemos porque pero pues ahi salen 
+a la derecha en el Model Explorer,
+el diagrama de secuencia esta en Untitled > Collaboration1 > Interaction1 > main
+el diagrama de clases esta en Untitled > Model > diagramaDeClases
+el diagrama de casos de uso esta en Untitled > Model > Diagrama de Caso de Uso Eventos Potros
+
