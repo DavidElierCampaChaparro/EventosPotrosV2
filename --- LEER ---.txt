@@ -1,0 +1,9 @@
+EventosPotrosV2 es ya con las capas, es el proyecto que se puede ejecutar
+
+Para que le deje iniciar sesion el programa tiene que correr los scripts que aparecen en la carpeta,
+el usuario admin es: 1 y 1
+el usuario normal es: 123456, contrasena123
+
+la base de datos accede con el usuario root y contraseña root en el localhost, en el puerto 3306
+si no está abierto el puerto o tiene usuario y contraseña diferentes pues no va a dejar hacer login
+
